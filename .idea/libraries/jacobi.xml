@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jacobi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Intellij-CAB401/lib/jacobi.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Intellij-CAB401/lib/jacobi.jar!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Intellij-CAB401/lib/jacobi.jar!/" />
+    </SOURCES>
+  </library>
+</component>
